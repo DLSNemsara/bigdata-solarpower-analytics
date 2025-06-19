@@ -146,5 +146,3 @@ This project was submitted as part of academic coursework. Live streaming pipeli
 ## 🌐 License
 
 This project is shared for educational purposes under the MIT License.
-
-```
