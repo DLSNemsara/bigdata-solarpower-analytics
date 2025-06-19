@@ -79,19 +79,19 @@ Snowflake was used to simulate a real-time analytics environment with:
 
 ### Peak and Off-Peak Generation
 
-![Peak Hours](assets/peak-generation.png)
+![Peak Hours](assets/peak-generation.jpg)
 
 ### Daily Power Output
 
-![Daily Output](assets/daily-output.png)
+![Daily Output](assets/daily-output.jpg)
 
 ### AC vs DC Power Comparison
 
-![AC DC Diff](assets/ac-vs-dc.png)
+![AC DC Diff](assets/ac-vs-dc.jpg)
 
 ### Weather Effect on Power
 
-![Weather Effect](assets/weather-effect.png)
+![Weather Effect](assets/weather-effect.jpg)
 
 ### ARIMA Forecasting
 
@@ -127,7 +127,7 @@ Refer to the detailed coursework submission in [`report/BigData_SolarPower_Analy
 
 ---
 
-## 🚀 How to Run (Optional)
+## 🚀 How to Run
 
 If you wish to run this project:
 
@@ -146,7 +146,5 @@ This project was submitted as part of academic coursework. Live streaming pipeli
 ## 🌐 License
 
 This project is shared for educational purposes under the MIT License.
-
-```
 
 ```
